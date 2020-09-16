@@ -115,7 +115,7 @@ while True:
                     continue
     #"delete" komutu
     elif command == "delete":
-        print(f"{commandstart}delete{commandend} Liste temizlendi")
+        print(f"{commandstart}delete Liste temizlendi{commandend}")
         numlist = []
     #"clear" komutu
     elif command == "clear":
